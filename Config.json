@@ -1,0 +1,16 @@
+{
+	"Use_Legacy_Clip_Borders": false,
+	"Is_Aurora_Borealis_Visible": false,
+	"Visible_In_Matchmaking": true,
+	"Status": "NONE",
+	"Version": "1.0.0.0",
+	"Use_Underground_Whitelist": false,
+	"Asset":
+	{
+		"GUID": "537278c5f6eb45198994ff2915d3107c"
+	},
+	"Allow_Underwater_Features": false,
+	"Terrain_Snow_Sparkle": false,
+	"Use_Vanilla_Bubbles": false,
+	"Use_Legacy_Water": false
+}
